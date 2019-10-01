@@ -1,0 +1,19 @@
+
+## cd /c/Users/tian/Documents/GitHub1607/D3-challenge/Instructions/StarterCode
+
+1. open gitbash
+cd D3-challenge/Instructions/StarterCode
+
+soruce activate pythonData
+
+python -m http.server
+
+4. go to browser google chrome
+
+http://localhost:8000
+
+
+
+
+
+
